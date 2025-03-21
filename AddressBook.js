@@ -69,5 +69,5 @@ function contactDetails(firstName,lastName,address,state,city,zipCode,email,phon
 }
 //UC3
 var addressBook = new Array();
-addressBook.push(new Contact('Naman', 'Agarwal', 'Ghar', 'UP', 'Agra', 282010, 'naman@gmail.com', 7017999999));
+addressBook.push(new Contact('Ashutosh', 'Choudahry', 'Ghar', 'Raj.', 'Alwar', 301001, 'ashutosh@gmail.com', 7737228258));
 console.log(addressBook);
